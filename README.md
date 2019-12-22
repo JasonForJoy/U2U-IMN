@@ -1,5 +1,5 @@
 # Utterance-to-Utterance Interactive Matching Network for Multi-Turn Response Selection in Retrieval-Based Chatbots
-This repository contains the source code and datasets for the IEEE/ACM Transactions on Audio, Speech and Language Processing paper [Utterance-to-Utterance Interactive Matching Network for Multi-Turn Response Selection in Retrieval-Based Chatbots](https://arxiv.org/pdf/1911.06940.pdf) by Gu et al. <br>
+This repository contains the source code and datasets for the IEEE/ACM Transactions on Audio, Speech and Language Processing paper [Utterance-to-Utterance Interactive Matching Network for Multi-Turn Response Selection in Retrieval-Based Chatbots](https://ieeexplore.ieee.org/document/8910440) by Gu et al. <br>
 
 ## Dependencies
 Python 2.7 <br>
@@ -31,10 +31,17 @@ If you use the code and datasets, please cite the following paper:
 Jia-Chen Gu, Zhen-Hua Ling, Quan Liu. _TASLP_
 
 ```
-@article{gu2019utterance,
-	title={Utterance-to-Utterance Interactive Matching Network for Multi-Turn Response Selection in Retrieval-Based Chatbots},
-	author={Gu, Jia-Chen and Ling, Zhen-Hua and Liu, Quan},
-	journal={IEEE/ACM Transactions on Audio, Speech, and Language Processing},
-	year={2019}
+@ARTICLE{8910440,
+         author={J. {Gu} and Z. {Ling} and Q. {Liu}},
+         journal={IEEE/ACM Transactions on Audio, Speech, and Language Processing},
+         title={Utterance-to-Utterance Interactive Matching Network for Multi-Turn Response Selection in Retrieval-Based Chatbots},
+         year={2020},
+         volume={28},
+         number={},
+         pages={369-379},
+         keywords={Context modeling;Encoding;Buildings;Neural networks;Training;Dialogue;response selection;interactive matching network;utterance-to-utterance},
+         doi={10.1109/TASLP.2019.2955290},
+         ISSN={2329-9304},
+         month={},}
 }
 ```
